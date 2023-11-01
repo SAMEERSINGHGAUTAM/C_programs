@@ -1,0 +1,27 @@
+What is the need of programming?
+
+Why do you write programs?
+
+Computer is a general purpose machine.It can perform any computational task.Computer executes instructions(set of instructions) which are given by the programmer to perform any task.Those set of instructions or sequence of instructions are programs. 
+So, if you want computer to perform some task for you then you have to write program for that task. This is one of the reason behind writing programs.
+
+Language of computer - Binary Language (0,1)
+So, if you write instructions in any language other than binary language that computer will not undestand.
+
+Program in other language ---converted into--->  Program written in binary language(0,1) -----> Computer will run the program(execute the program)
+
+Program run by programs. Computer is nothing without programs(It cannot do anything without programs.)
+
+Software ---> set of programs
+	System programs ----> They are going to manage the system resources. They are going to manage the hardware. 
+	Application programs ----> They are used to perform the user's task. Like web browser is an application software. ALso Text editor(used to write and e	      dit text files), ms-office, vlc media player, etc.
+
+Suppose, if you want computer to perform any specific task(user's task), then according to that user will have to write its own program.
+When you give program to computer, it understands/executes those sequence of instructions and then according to that it gives some output.
+
+Programs are written in programming langauges. For any language first you need to understand the alphabets then strings and then we frame the instructions (by using grammers). ////////
+In programming language, 
+Step 1 - Understand the character set of thet language.
+Step 2 - Constants, Variables and Keywords
+Step 3 - Instruction and then program
+    
